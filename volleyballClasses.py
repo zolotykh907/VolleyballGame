@@ -1,5 +1,6 @@
 import time
 import math
+import pygame
 
 from mathOperations import calculate_y, height_to_angle
 from constants import *
