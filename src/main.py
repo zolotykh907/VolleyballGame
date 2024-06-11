@@ -1,7 +1,5 @@
 import random
 
-import pygame.draw
-
 from volleyballClasses import *
 
 #Всплывающее окно

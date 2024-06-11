@@ -17,9 +17,9 @@
     - Удар в сетку
 
 # Запуск
-- Запустить main.exe.
+- Запустить main.exe
 
-Для двух следующих способов нужно установить зависимости из src/requirments.txt:
+Для двух следующих способов нужно установить зависимости из src/requirements.txt:
 
 ```
 pip install -r src/requirements.txt
@@ -33,3 +33,4 @@ pip install -r src/requirements.txt
 cd src
 python main.py
 ```
+
